@@ -1,7 +1,13 @@
 ### I'm a ✍writer who writes 🧠AI with code
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&animation=fadeIn&height=300&section=header&text=enter%20text&fontSize=90" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&animation=fadeIn&height=300&section=header&text=Chromatic-Hwi&fontSize=90" />
 
 <a href="https://blog.naver.com/chromatic_365" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a>
 
