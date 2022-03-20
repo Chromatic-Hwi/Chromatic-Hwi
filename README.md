@@ -4,7 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&animation=fadeIn&height=300&section=header&text=Chromatic-Hwi&fontSize=90" />
 
+
 ## I'm a ✍writer who writes 🧠AI with code!<br/>👨‍🎓B.S degree expected in Electrical engineering and AI Science.
+
 
 ### Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/><a>
@@ -28,6 +30,8 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chromatic-Hwi&include_all_commits&count_private=False&hide=issues,prs&show_icons=true&theme=tokyonight)
+  
+<img width="49%" src="https://user-images.githubusercontent.com/89522246/159153932-cda2f163-33a0-4eb6-a43e-27eacd43b794.gif"/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChromatic-Hwi&count_bg=%2379C83D&title_bg=%238E4AE1&icon=github.svg&icon_color=%23393737&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
