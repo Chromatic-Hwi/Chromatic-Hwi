@@ -9,7 +9,8 @@
 
 
 ### Skills
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/><a>
+<img src="https://img.shields.io/badge/Atom-66595C?style=square&logo=Atom&logoColor=white"/><a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=square&logo=Google Colab&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=square&logo=Pandas&logoColor=white"/>
@@ -21,10 +22,11 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/>
 
 ### Tried a sip
-<img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/><a><br/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/><a>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=square&logo=Visual Studio&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=Linux&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Grafana-F46800?style=square&logo=Grafana&logoColor=white"/>
   
 ### My Blog
 <a href="https://blog.naver.com/chromatic_365" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" />
@@ -32,9 +34,10 @@
 ### 📧chromatic_365@naver.com
   
 ## Project Achievement 
-  º<br/>
-  º<br/>
-  º
+  º Electric power consumption prediction (Private)<br/>
+  º COVID-19 sales prediction (Private)<br/>
+  º Korean next word recommendation (Public)<br/>
+  º 
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chromatic-Hwi&include_all_commits&count_private=False&hide=issues,prs&show_icons=true&theme=tokyonight)
