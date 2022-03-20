@@ -22,7 +22,7 @@
   º
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chromatic-Hwi&include_all_commits&hide=issues,prs&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chromatic-Hwi&include_all_commits&count_private=true&hide=issues,prs&show_icons=true&theme=tokyonight)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChromatic-Hwi&count_bg=%2379C83D&title_bg=%238E4AE1&icon=github.svg&icon_color=%23393737&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
