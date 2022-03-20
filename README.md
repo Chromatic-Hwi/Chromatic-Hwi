@@ -31,7 +31,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chromatic-Hwi&include_all_commits&count_private=False&hide=issues,prs&show_icons=true&theme=tokyonight)
   
-<img width="60%" src="https://user-images.githubusercontent.com/89522246/159153932-cda2f163-33a0-4eb6-a43e-27eacd43b794.gif"/>
+<img width="58%" src="https://user-images.githubusercontent.com/89522246/159153932-cda2f163-33a0-4eb6-a43e-27eacd43b794.gif"/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChromatic-Hwi&count_bg=%2379C83D&title_bg=%238E4AE1&icon=github.svg&icon_color=%23393737&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
