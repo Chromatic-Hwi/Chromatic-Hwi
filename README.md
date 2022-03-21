@@ -34,8 +34,8 @@
 ### 📧chromatic_365@naver.com
   
 ## Project Achievement 
-  º Electric power consumption prediction (Private)<br/>
-  º COVID-19 sales prediction (Private)<br/>
+  º Electric power consumption forecasting (Private)<br/>
+  º COVID-19 sales forecasting (Private)<br/>
   º Korean next word recommendation (Public)<br/>
   º 
 <br/>
