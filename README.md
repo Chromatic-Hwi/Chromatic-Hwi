@@ -40,6 +40,9 @@
   º 
 <br/>
 
+## Github info
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chromatic-Hwi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chromatic-Hwi&include_all_commits&count_private=False&hide=issues,prs&show_icons=true&theme=tokyonight)
   
 <img width="58%" src="https://user-images.githubusercontent.com/89522246/159153932-cda2f163-33a0-4eb6-a43e-27eacd43b794.gif"/>
