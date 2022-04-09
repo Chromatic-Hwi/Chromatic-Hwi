@@ -37,7 +37,7 @@
   º Electric power consumption forecasting (Private)<br/>
   º COVID-19 sales forecasting (Private)<br/>
   º Korean next word recommendation (Public)<br/>
-  º 
+  º Face and Handwriting recognition using Raspberry pi 
 <br/>
 
 ## Github info
