@@ -34,7 +34,7 @@
 ### 📧chromatic_365@naver.com
   
 ## Project Achievement 
-  º Electric power consumption forecasting (Private)<br/>
+  º Electric power consumption forecasting (Public)<br/>
   º COVID-19 sales forecasting (Private)<br/>
   º Korean next word recommendation (Public)<br/>
   º Face and Handwriting recognition using Raspberry pi (Public)
