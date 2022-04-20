@@ -35,7 +35,7 @@
   
 ## Project Achievement 
   º Electric power consumption forecasting (Public)<br/>
-  º COVID-19 sales forecasting (Private)<br/>
+  º COVID-19 sales forecasting (Public)<br/>
   º Korean next word recommendation (Public)<br/>
   º Face and Handwriting recognition using Raspberry pi (Public)
 <br/>
