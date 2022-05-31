@@ -10,7 +10,7 @@
 
 ### Skills
 <img src="https://img.shields.io/badge/Atom-66595C?style=square&logo=Atom&logoColor=white"/><a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=square&logo=NumPy&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 ### Tried a sip
 <img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/><a>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=square&logo=Google Colab&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=square&logo=Google Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=square&logo=Visual Studio&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=Linux&logoColor=white"/><br/>
