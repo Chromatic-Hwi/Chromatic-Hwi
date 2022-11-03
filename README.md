@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&animation=fadeIn&height=300&section=header&text=Chromatic-Hwi&fontSize=90" />
 
 
-## I'm a ✍writer who writes 🧠AI with code!<br/><br/>👨‍🎓B.S degree expected in Electrical engineering and AI Science.
+## I'm a ✍writer who writes 🧠Program with code!<br/><br/>👨‍🎓B.S degree expected in Electrical engineering and AI Science.
 
 
 ### Skills
