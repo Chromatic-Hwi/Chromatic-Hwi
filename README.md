@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=square&logo=PyCharm&logoColor=white"/><a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=square&logo=Visual Studio&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-%2300599C?style=square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=square&logo=Linux&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/><br/>
 <!--<img src="https://img.shields.io/badge/Grafana-F46800?style=square&logo=Grafana&logoColor=white"/>-->
