@@ -36,10 +36,25 @@
 ### 📧chromatic_365@naver.com
   
 ## Project Achievement 
-  º Electric power consumption forecasting (Public)<br/>
-  º COVID-19 sales forecasting (Public)<br/>
-  º Korean next word recommendation (Public)<br/>
-  º Face and Handwriting recognition using Raspberry pi (Public)
+- Face and Handwriting recognition using Raspberry pi (Public)
+  - 21.06. ~ 21.07.
+- Korean next word recommendation (Public)
+- COVID-19 sales forecasting (Public)
+  - 22.02. ~ 22.04.
+  - [제3회 AI SPARK 챌린지] 참여 및 본선 진출
+- Electric power consumption forecasting (Public)
+  - 22.04. ~ 23.02.
+  - [스마트제조ICT사업단] 산업체현장 문제해결 프로젝트 참여
+  - 서휘&조문증, ⌜C-LSTM 모델을 이용한 단기 전력 예측⌟, ⌜2023, vol.39, no.1)⌟, 데이터베이스연구(DBR), 2023, pp.3-16 (14 pages) (Paper published)
+- 장기 천연가스 수요 예측 모델 개발 (Private)
+  - 22.09. ~ 23.01.
+  - 한국가스공사 주최 빅데이터 스타트업 경진대회 우수상 수상
+- 차세대 전고체 배터리 검사 공정 비전 검사 프로그램 개발 (Company project)
+  - 22.12. ~ 24.01.
+
+
+
+- 
 <br/>
 
 ## Github info
