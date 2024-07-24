@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&&animation=fadeIn&height=300&section=header&text=Chromatic-Hwi&fontSize=90" />
 
 
-## I'm a ✍writer who writes 🧠Program with code!<br/><br/>👨‍🎓B.S in Electrical engineering and AI Science.
+## 👨‍🎓B.S in Electrical engineering and AI Science.
 
 
 ### Skills
